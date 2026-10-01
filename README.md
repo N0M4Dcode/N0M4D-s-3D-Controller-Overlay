@@ -169,3 +169,8 @@ The model was modified in Blender for this project, including control separation
 Third-party components include Three.js, SDL3, Node.js, and Microsoft .NET. Their licence notices are included in the portable package’s `licenses` folder.
 
 The model’s licence does not automatically apply to the application source code.
+
+if you would like to support me. buy me a coffee or drop a follow on my YT
+
+[BuyMeACoffee](https://buymeacoffee.com/n0m4d)
+[Youtube](https://www.youtube.com/channel/UC51wCpcVe3cglUBtS6rZTPQ)
