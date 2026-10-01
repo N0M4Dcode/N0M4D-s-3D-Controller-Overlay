@@ -51,7 +51,7 @@ Keep the bundled files and folders together. Do not run the application directly
 6. Choose whether to show the input readout.
 7. Click **Save & copy OBS link**.
 
-PlayStation label profiles currently use the supplied Xbox-shaped model. Separate PS4 and PS5 models are not included.
+PlayStation label profiles currently use the supplied Xbox-shaped model. Separate PS4 and PS5 models are not included yet. this will change as time goes on. as its an active project of mine.
 
 ## Add the overlay to OBS
 
