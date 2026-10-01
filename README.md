@@ -31,7 +31,7 @@ The portable package includes its runtimes and graphics libraries. You do not ne
 
 ## Installation
 
-1. Download the portable Windows ZIP from this repository’s **Releases** section.
+1. Download the portable Windows ZIP from this repository’s **[Releases](https://github.com/N0M4Dcode/N0M4D-s-3D-Controller-Overlay/releases)** section.
 2. Extract the **entire ZIP** into a writable folder, such as `Documents\Nomads3DCOverlay`.
 3. Run `Nomads3DCOverlay.exe`.
 4. Click **Open controller studio**.
