@@ -1,4 +1,4 @@
-# Nomads 3D Controller Overlay
+# N0M4D's 3D Controller Overlay
 
 A transparent, animated 3D controller overlay for OBS Studio on Windows.
 
