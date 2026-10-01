@@ -172,5 +172,24 @@ The model’s licence does not automatically apply to the application source cod
 
 if you would like to support me. buy me a coffee or drop a follow on my YT
 
-[BuyMeACoffee](https://buymeacoffee.com/n0m4d)
-[Youtube](https://www.youtube.com/channel/UC51wCpcVe3cglUBtS6rZTPQ)
+## Support & Follow
+
+If you would like to support me, buy me a coffee, drop a follow on YouTube, or check out my GitHub.
+
+<p align="center">
+  <a href="https://buymeacoffee.com/n0m4d">
+    <img src="Neon Hooded Coffee Gamer Banner.png" alt="Buy Me a Coffee" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC51wCpcVe3cglUBtS6rZTPQ">
+    <img src="Neon Masked Gamer YouTube Banner.png" alt="YouTube" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/N0M4Dcode">
+    <img src="c1827278-1e11-4df1-af25-4400f3d8e906.png" alt="N0M4Dcode on GitHub" width="700">
+  </a>
+</p>
