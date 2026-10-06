@@ -2,6 +2,8 @@
 
 A transparent, animated 3D controller overlay for OBS Studio on Windows.
 
+### *** Please use the [Releases](https://github.com/N0M4Dcode/N0M4D-s-3D-Controller-Overlay/releases)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 Show button presses, stick movement, trigger pressure, and supported battery information while you play. Arrange two independent camera views using the included visual editor.
 
 ## Features
