@@ -1,5 +1,5 @@
 # N0M4D's 3D Controller Overlay
-### *** Please use the [Releases](https://github.com/N0M4Dcode/N0M4D-s-3D-Controller-Overlay/releases)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **
+### ** Please use the [Releases](https://github.com/N0M4Dcode/N0M4D-s-3D-Controller-Overlay/releases)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> **
 
 A transparent, animated 3D controller overlay for OBS Studio on Windows.
 
