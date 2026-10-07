@@ -1,4 +1,8 @@
-# N0M4D's 3D Controller Overlay
+<p align="center">
+  <a href=>
+    <img src="N3DCOlogo.png"  width="1250">
+  </a>
+</p>
 
 **N3DCO** is a customisable, animated 3D controller overlay for OBS Studio on Windows.
 
