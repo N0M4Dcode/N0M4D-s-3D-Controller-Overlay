@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="N3DCOlogo.png" width="1250" alt="N3DCO">
-</p>
-
-<br>
+<img src="N3DCOlogo.png" width="1250" alt="N3DCO">
 
 **N3DCO** is a customisable, animated 3D controller overlay for OBS Studio on Windows.
 
