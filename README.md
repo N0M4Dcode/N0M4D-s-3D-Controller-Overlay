@@ -1,3 +1,6 @@
+** NOTE: DO NOT CLONE THE REPO. this is not a public open source project. all builds go to the release section of this repo. 
+### **[Download the latest release](https://github.com/N0M4Dcode/N0M4D-s-3D-Controller-Overlay/releases)**
+
 <p align="center">
   <img src="N3DCOLogo.png" width="1250" alt="N3DCO">
 </p>
